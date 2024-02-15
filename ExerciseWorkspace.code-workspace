@@ -1,0 +1,121 @@
+{
+  "folders": [
+    {
+      "name": "2.1 Heading Element",
+      "path": "2.1 Heading Element"
+    },
+    {
+      "name": "2.2 Paragraph Element",
+      "path": "2.2 Paragraph Element"
+    },
+    {
+      "name": "2.3 Void Elements",
+      "path": "2.3 Void Elements"
+    },
+    {
+      "name": "2.4 Movie Ranking Project",
+      "path": "2.4 Movie Ranking Project"
+    },
+    {
+      "name": "3.0 List Elements",
+      "path": "3.0 List Elements"
+    },
+    {
+      "name": "3.1 Nesting and Indentation",
+      "path": "3.1 Nesting and Indentation"
+    },
+    {
+      "name": "3.2 Anchor Elements",
+      "path": "3.2 Anchor Elements"
+    },
+    {
+      "name": "3.3 Image Elements",
+      "path": "3.3 Image Elements"
+    },
+    {
+      "name": "3.4 Birthday Invite Project",
+      "path": "3.4 Birthday Invite Project"
+    },
+    {
+      "name": "4.0 File Paths",
+      "path": "4.0 File Paths"
+    },
+    {
+      "name": "4.1 Webpages",
+      "path": "4.1 Webpages"
+    },
+    {
+      "name": "4.3 HTML Porfolio Project",
+      "path": "4.3 HTML Porfolio Project"
+    },
+    {
+      "name": "5.1. Adding CSS",
+      "path": "5.1. Adding CSS"
+    },
+    {
+      "name": "5.3 CSS Selectors",
+      "path": "5.3 CSS Selectors"
+    },
+    {
+      "name": "5.4 Color Vocab Project",
+      "path": "5.4 Color Vocab Project"
+    },
+    {
+      "name": "Boilerplate",
+      "path": "../Boilerplate"
+    },
+    {
+      "name": "6.0 CSS Colors",
+      "path": "6.0 CSS Colors"
+    },
+    {
+      "name": "6.1 Font Properties",
+      "path": "6.1 Font Properties"
+    },
+    {
+      "name": "6.3 CSS Box Model",
+      "path": "6.3 CSS Box Model"
+    },
+    {
+      "name": "6.4 Motivation Meme Project",
+      "path": "6.4 Motivation Meme Project"
+    },
+    {
+      "path": "7.0 CSS Cascade"
+    },
+    {
+      "path": "7.1 Combining Selectors"
+    },
+    {
+      "path": "7.2 CSS Positioning"
+    },
+    {
+      "path": "7.3 CSS Flag Project"
+    },
+    {
+      "path": "8.1 CSS Float"
+    },
+    {
+      "path": "8.2 Responsiveness"
+    },
+    {
+      "path": "8.3 Media Query"
+    },
+    {
+      "path": "8.4 Web Design Agency Project"
+    },
+    {
+      "path": "8.0 CSS Display"
+    },
+    {
+      "path": "9.0 Display Flex"
+    },
+    {
+      "path": "9.1 Flex Direction"
+    },
+    {
+      "path": "9.4 Flexbox Pricing Table Project"
+    }
+  ],
+  "settings": {}
+}
