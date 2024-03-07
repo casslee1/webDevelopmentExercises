@@ -31,6 +31,12 @@ function playSound(name){
 
 }
 
-function animatePress(currentColour){
+function animatePress(currentColor){
 
+    $("#" + currentColor).addClass("pressed");
+
+    setTimeout(function(){
+        $("#" + currentColor).removeClass("pressed");
+    }, 100);
 }
+
